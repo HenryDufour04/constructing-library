@@ -2,10 +2,10 @@
   "name": "libary-data",
   "version": "1.0.0",
   "description": "",
-  "main": "Library.js",
+  "main": "client.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node Library.js",
+    "start": "node client.js",
     "dev": "nodemon"
   },
   "keywords": [],
